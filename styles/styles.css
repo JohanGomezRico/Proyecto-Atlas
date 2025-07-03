@@ -1,0 +1,822 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.section1{
+    background-image: url(../assets/banner-bk.jpg);
+    height: 67vh;
+    background-repeat: no-repeat;
+    background-size:137vw;
+    padding: 70px 150px;
+}
+
+.part1s1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+}
+
+.logos1{
+    width: 100px;
+}
+
+h1{
+    color: white;
+    font-size: 75px;
+    margin-top: 40px;
+}
+
+.abajo{
+    display: block;
+}
+
+.texs1{
+    color: white;
+    font-size: 20px;
+    width: 68%;
+    margin-top: 50px;
+    line-height: 1.5;
+}
+
+.buttons1{
+    background-color: #00FFAD;
+    padding: 15px 35px;
+    border-radius: 30px;
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 15px;
+}
+                                             /*section2*/
+                        
+.section2{
+    padding: 110px 150px ;
+}
+
+h2{
+    font-size: 45px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.contens2{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    gap: 50px;
+}
+
+.titucontens2{
+    font-size: 23px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+                                             /*section3 linea diagonal*/
+.section3{
+    padding: 100px 50px 100px 100px;
+    display: flex;
+    justify-content: space-between;
+    background: linear-gradient(170deg, white 53%, #00FFAD 0%);
+}
+
+h3{
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.segundalinea{
+    display: block;
+    line-height: 1.5;
+}
+
+.buttons34{
+    background-color: #192440;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 11px 30px;
+    border-radius: 30px;
+    margin-top: 50px;
+    color: white;
+}
+
+.imgs3{
+    width: 78%;
+}
+                                        /*section4*/
+.section4{
+    background-color: #00FFAD;
+    display: flex;
+    justify-content: space-between;
+    padding: 70px 210px 70px 150px;
+}
+
+.imgs4{
+    width: 100%;
+}
+
+.titus4{
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.s4linea2{
+    display: block;
+}
+                                        /*section5*/
+.section5{
+    padding: 100px 250px;
+}
+
+h4{
+    font-size: 45px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.contens5{
+    display: flex;
+    justify-content: space-between;
+}
+                                     /*informacion tarjeta*/
+.tarjet13{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.titu123{
+    font-size: 25px;
+}
+
+.numbertarj123{
+   font-size: 90px;
+   font-weight: bold;
+}
+
+.tar13{
+    font-weight: bold;
+}
+
+.lists5{
+    list-style: none;
+    line-height: 2;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+
+.buttons513{
+    background-color: white;
+    padding: 13px 30px;
+    border-radius: 30px;
+    font-weight: bold;
+    border-style:solid;
+    border: 3px solid #192440;
+    margin-top: 30px;
+}
+                                         /*Informacion tajeta centro*/
+.tarjetacentro{
+    background-color: #192440;
+    text-align: center;
+    color: white;
+    padding: 50px 100px;
+}
+
+.buttoncentro{
+    background-color: #00FFAD;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+                                          /*section6*/
+.section6{
+    background-color: #ECEEEF;
+    height: 220px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 150px;
+}
+                                          /*section7*/
+.section7{
+    background-image: url(../assets/contact-bk.jpg);
+    background-position: center;
+    background-size:100vw;
+    background-repeat: no-repeat;
+    height: 43vh;
+    padding: 140px 200px 60px 200px ;
+    display: flex;
+    justify-content: space-between;
+}
+
+.texts7{
+    color: white;
+}
+
+.informacions7{
+    margin-top: 25px;
+    line-height: 2;
+}
+
+.epas7{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.formularios7{
+    color: #00FFAD;
+}
+
+h5{
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.s7abajo{
+    display: block;
+    line-height: 1.5;
+}
+
+.nameEmail{
+    display: flex;
+    gap: 30px;
+}
+
+.fondo{
+    background: transparent;
+    padding: 10px 3px ;
+    width: 250px ;
+    border: 2px solid #00FFAD;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.fondoM{
+    background: transparent;
+    width: 100%;
+    border: 2px solid #00FFAD;
+    padding: 3px 0px 3px 0px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.buttonformulario{
+    background-color: #00FFAD;
+    padding: 13px;
+    width: 100%;
+    border-radius: 30px;
+    font-size: 15px;
+    font-weight: bold;
+}
+                                        /*footer*/
+footer{
+    height: 130px;
+    background-color: #192440 ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    padding: 0px 180px;
+}
+.logosfooter{
+    width: 40px;
+    margin: 0px 8px;
+    filter: invert(100%) grayscale(100%);
+}
+                                                 /*RESPONSING*/
+@media(max-width: 1279px){
+
+.section1{
+    padding: 30px 120px;
+}
+
+ h1{
+    font-size: 40px;
+    margin-top: 0px;
+ }
+ 
+.texs1{
+    font-size: 15px;
+    margin-top: 20px;
+}
+   
+.buttons1{
+    padding: 12px 20px;
+    margin-top: 30px;
+    font-size: 13px;
+}
+                                    /*section2*/
+.section2{
+    padding: 100px 120px ;
+}
+
+h2{
+    font-size: 40px;
+}
+                                   /*section3*/
+.section3{
+    padding: 10px 0px 70px 80px;
+    background: linear-gradient(170deg, white 53%, #00FFAD 0%);
+}
+
+h3{
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+
+.texts3{
+    font-size: 15px;
+}
+
+.buttons34{
+    font-size: 13px;
+    padding: 8px 20px;
+    margin-top: 20px;
+}
+
+                                   /*section4*/
+.section4{
+    padding: 40px 80px 70px 50px;
+}
+
+.imgs4{
+    width: 80%;
+}
+
+.titus4{
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+
+.texs4{
+    font-size: 15px;
+}
+                                 /*section5*/
+.section5{
+    padding: 50px 60px;
+}
+
+h4{
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+                                /*Informacion tarjeta 1 y 3*/
+.titu123{
+    font-size: 20px;
+}
+
+.numbertarj123{
+   font-size: 70px;
+}
+
+.lists5{
+    margin-top: 8px;
+}
+
+.buttons513{
+    margin-top: 20px;
+}
+                               /*informacion tarjeta centro*/
+.tarjetacentro{
+    padding: 50px 70px;
+}
+
+.buttoncentro{
+    margin-top: 20px;
+}
+                              /*section6*/
+.section6{
+    height: 200px;
+    padding: 0px 60px;
+}
+                               /*section7*/
+.section7{
+    height: 45vh;
+    padding: 40px 50px 40px 50px ;
+    font-size: 13px;
+}
+
+.informacions7{
+    margin-top: 10px;
+}
+
+h5{
+    margin-top: 30px;
+    font-size: 30px;
+}
+.fondo{
+    padding: 7px 3px ;
+    width: 180px ;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.fondoM{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.buttonformulario{
+    padding: 7px;
+    font-size: 15px;
+}
+
+footer{
+    height: 100px;
+    padding: 0px 70px;
+}
+}
+                                               /*920*/
+@media(max-width: 920px){
+                                        /*section  1 */
+.section1{
+    padding: 20px 80px;
+}
+
+.logos1{
+    width: 80px;
+}
+
+h1{
+    font-size: 30px;
+    margin-top: 0px;
+ }
+ 
+.texs1{
+    font-size: 12px;
+    margin-top: 20px;
+}
+   
+.buttons1{
+    margin-top: 20px;
+    font-size: 12px;
+}
+.texds1{
+    font-size: 15px;
+}
+                                    /*section 2*/
+.section2{
+    padding: 30px 70px 70px 70px ;
+    font-size: 15px;
+}
+                                    /*section 3 */
+.section3{
+    padding: 10px 0px 70px 80px;
+    background: linear-gradient(170deg, white 55%, #00FFAD 0%);
+}
+h3{
+    font-size: 30px;
+}
+.texts3{
+    font-size: 15px;
+}
+.imgs3{
+    margin-top: 40px;
+}
+                                    /*section 4 */
+.titus4{
+    font-size: 30px
+}
+.texs4{
+    font-size: 13px;
+}
+                                    /*section5*/
+.section5{
+    padding: 50px 30px;
+}
+h4{
+    font-size: 35px;
+}
+.tarjetacentro{
+    padding: 50px 60px;
+}
+                              /*section6*/
+.section6{
+    height: 150px;
+    padding: 0px 60px;
+}
+.imgs6{
+    width: 100px;
+}
+                              /* section 7 */
+.section7{
+    height: 55vh;
+    padding: 0px 30px ;
+    font-size: 12px;
+}
+h5{
+    margin-top: 50px;
+    font-size: 25px;
+}
+.fondo{
+    width: 150px ;
+    margin-top: 7px;
+}
+
+.formularios7{
+    margin-top: 20px;
+}
+                           /*footer*/
+footer{
+    height: 80px;
+    padding: 0px 50px;
+    font-size: 13px;
+}
+.logosfooter{
+    width: 30px;
+}
+}
+
+@media(max-width: 768px){
+                                /*section 1*/
+.section1{
+    height: 35vh;
+    padding: 20px 30px;
+}
+
+.logos1{
+    width: 40px;
+}
+
+h1{
+    font-size: 20px;
+    margin-top: 0px;
+ }
+ 
+.texs1{
+    font-size: 10px;
+    margin-top: 10px;
+}
+   
+.buttons1{
+    padding: 8px 20px;
+    margin-top: 10px;
+    font-size: 10px;
+}
+.texds1{
+    font-size: 12px;
+}
+                            /*section 2*/
+.section2{
+    padding: 30px 50px 70px 50px ;
+}
+
+h2{
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.contens2{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+                        /*section 3*/
+.section3{
+    padding: 10px 50px 70px 40px;
+    background: linear-gradient(170deg, white 58%, #00FFAD 0%);
+}
+h3{
+    font-size: 20px;
+}
+.texts3{
+    font-size: 10px;
+}
+.imgs3{
+    width: 150px;
+    margin-top: 50px;
+}
+.buttons34{
+    font-size: 10px;
+    padding: 5px 20px;
+    margin-top: 10px;
+}
+                    /*section 4*/
+.section4{
+    padding: 20px 40px;
+}
+
+.titus4{
+    font-size: 20px
+}
+.texs4{
+    font-size: 10px;
+    width: 100%;
+}
+.imgs4{
+    width: 160px;
+    margin-right: 30px;
+}
+                      /*section 5*/  
+.contens5{
+    display: flex;
+    flex-direction: column;
+}
+
+h4{
+    margin-bottom: 20px;
+}
+
+.tarjetacentro{
+    margin-top: 50px;
+}
+                        /*section 6*/
+.section6{
+    display: flex;
+    flex-wrap: wrap;
+    height: 230px;
+}
+.section6 img{
+    flex: 1 1 calc(33.33% - 40px);
+}
+                        /*section 7 */
+.section7{
+    height: 35vh;
+    padding: 0px 20px ;
+    font-size: 9px;
+}
+
+.epas7{
+    font-size: 10px;
+}
+h5{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+.fondo{
+    padding: 3px 3px ;
+    width: 80px ;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.formularios7{
+    margin-top: 20px;
+}
+.fondoM{
+    width: 100%;
+    border: 2px solid #00FFAD;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.buttonformulario{
+    padding: 3px;
+    font-size: 12px;
+}
+                         /*footer*/
+footer{
+    height: 80px;
+    padding: 0px 30px;
+    font-size: 10px;
+}
+.logosfooter{
+    width: 20px;
+}
+}
+
+@media(max-width: 480px){
+                                   /*section 1*/
+.section1{
+    height: 28vh;
+    padding: 10px 30px;
+}
+
+.logos1{
+    width: 30px;
+}
+
+h1{
+    font-size: 15px;
+ }
+ 
+.texs1{
+    font-size: 8px;
+    margin-top: 8px;
+    width: 90%;
+}
+   
+.buttons1{
+    padding: 5px 20px;
+    margin-top: 10px;
+    font-size: 7px;
+}
+.texds1{
+    font-size: 10px;
+}
+                                         /*section 2*/
+.section2{
+    padding: 30px 50px 40px 50px ;
+}
+
+h2{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+                                        /*section 3*/
+.section3{
+    padding: 0px 20px;
+    background: linear-gradient(170deg, white 65%, #00FFAD 0%);
+}
+h3{
+    font-size: 15px;
+}
+.texts3{
+    font-size: 10px;
+}
+.imgs3{
+    width: 120px;
+    margin-top: 35px;
+}
+.buttons34{
+    font-size: 10px;
+    padding: 3px 15px;
+    margin-top: 10px;
+}
+                                        /*secgtion 4*/
+.section4{
+    padding: 30px 20px ;
+}
+
+.titus4{
+    font-size: 15px
+}
+.texs4{
+    font-size: 10px;
+}
+.imgs4{
+    width: 160px;
+    margin-right: 20px;
+}
+                                        /*section 5*/
+h4{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.tarjet13{
+    padding:  40px;
+}
+.tarjetacentro{
+    margin-top: 30px;
+}
+                                        /*section 6 */
+.section6{
+    padding: 20px 5px ;
+    height: 260px;
+}
+                                       /*section 7*/
+.section7{
+    height: 25vh;
+    padding: 0px 10px ;
+    font-size: 9px;
+    gap: 15px;
+}
+
+.epas7{
+    font-size: 9px;
+}
+h5{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+.fondo{
+    padding: 1px 3px ;
+    width: 60px ;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.formularios7{
+    margin-top: 5px;
+}
+.fondoM{
+    width: 100%;
+    border: 2px solid #00FFAD;
+    height: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.informacions7{
+    line-height: 1;
+}
+.buttonformulario{
+    padding: 2px;
+    font-size: 10px;
+}
+                                /*footer*/
+footer{
+    height: 50px;
+    padding: 0px 20px;
+    font-size: 9px;
+}
+.logosfooter{
+    width: 20px;
+    margin: 5px;
+}                                
+}
