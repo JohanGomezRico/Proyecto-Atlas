@@ -679,7 +679,6 @@ footer{
 @media(max-width: 480px){
                                    /*section 1*/
 .section1{
-    height: 28vh;
     padding: 10px 30px;
 }
 
@@ -692,7 +691,7 @@ h1{
  }
  
 .texs1{
-    font-size: 8px;
+    font-size: 12px;
     margin-top: 8px;
     width: 90%;
 }
@@ -723,7 +722,7 @@ h3{
     font-size: 15px;
 }
 .texts3{
-    font-size: 10px;
+    font-size: 11px;
 }
 .imgs3{
     width: 120px;
@@ -743,7 +742,7 @@ h3{
     font-size: 15px
 }
 .texs4{
-    font-size: 10px;
+    font-size: 11px;
 }
 .imgs4{
     width: 160px;
@@ -767,41 +766,34 @@ h4{
 }
                                        /*section 7*/
 .section7{
-    padding: 10px 10px ;
-    font-size: 9px;
-    gap: 15px;
-}
-
-.epas7{
-    font-size: 9px;
+    padding: 0px 20px ;
+    font-size: 12px;
+    display: flex;
+    flex-direction: column;
 }
 h5{
-    margin: 0px;
-    font-size: 15px;
+    margin-top: 20px;
+    font-size: 25px;
+    text-align: center;
 }
 .fondo{
-    padding: 1px 3px ;
-    width: 60px ;
-    margin-top: 5px;
-    margin-bottom: 5px;
+    width: 132px ;
+    margin-top: 7px;
+    color:white;
+}
+.fondoM{
+    color: white;
+    height: 50px;
 }
 
 .formularios7{
-    margin-top: 5px;
+    margin-top: 20px;
 }
-.fondoM{
-    width: 100%;
-    border: 2px solid #00FFAD;
-    height: 20px;
-    margin-top: 5px;
-    margin-bottom: 5px;
-}
-.informacions7{
-    line-height: 1;
-}
+
 .buttonformulario{
-    padding: 2px;
-    font-size: 10px;
+    padding: 5px 0px;
+    font-size: 12px;
+    margin-bottom: 10px;
 }
                                 /*footer*/
 footer{
@@ -812,5 +804,6 @@ footer{
 .logosfooter{
     width: 20px;
     margin: 5px;
-}                                
+}
+                             
 }
