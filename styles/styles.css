@@ -767,7 +767,7 @@ h4{
 }
                                        /*section 7*/
 .section7{
-    padding: 0px 10px ;
+    padding: 10px 10px ;
     font-size: 9px;
     gap: 15px;
 }
@@ -776,8 +776,7 @@ h4{
     font-size: 9px;
 }
 h5{
-    margin-top: px;
-    margin-bottom: 5px;
+    margin: 0px;
     font-size: 15px;
 }
 .fondo{
